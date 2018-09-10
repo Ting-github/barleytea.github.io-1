@@ -307,6 +307,7 @@ ul, li {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  background-color: #fff;
 }
 
 #skill .card:first-child {
