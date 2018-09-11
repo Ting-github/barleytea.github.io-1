@@ -620,3 +620,8 @@ ul, li {
 .logo-real-name {
   font-size: 24px !important;
 }
+
+.table td, .table th {
+  padding: .75rem;
+  vertical-align: tom;
+}
